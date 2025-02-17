@@ -1,4 +1,4 @@
-# Dummy
+# Init
 
 
 - 👋 Hi, I’m @jinucho
