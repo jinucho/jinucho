@@ -1,15 +1,8 @@
-# Init
+# 👋 Jinu Cho (조진우) <a href="https://www.linkedin.com/in/jinucho/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jinucho" height="30" width="40" /></a>
 
+📌 Data Science/ML/DL 📌 Founder of DDOK.AI Inc. 📌 Currently working with @JAEN
 
-- 👋 Hi, I’m @jinucho
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🏅빅데이터 분석기사 🏅ADsP(데이터분석준전문가) 🏅SQLD(SQL개발자)
 
-<!---
-jinucho/jinucho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🌐 오픈소스 프로젝트
+- [LangChain-Opentutorial](https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial)
