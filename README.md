@@ -1,9 +1,9 @@
-# 👋 Jinu Cho (조진우) 
+# Jinu Cho (조진우) 
 ## From Technical Sales to Developer
 
 ### 🏅빅데이터 분석기사 🏅ADsP(데이터분석준전문가) 🏅SQLD(SQL개발자)
 
-## 🌐 OpenSource Project
+## OpenSource Project
 - [LangChain-Opentutorial](https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial)
 
 ## Contact
